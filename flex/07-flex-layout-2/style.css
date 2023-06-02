@@ -22,9 +22,10 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
-  /*display: flex;
+  display: flex;
+  justify-content: center;
   align-items: center;
-  font-size: 32px;
+  /*font-size: 32px;
   font-weight: 900;
   padding-left: 16px; wrong selector*/
 }
