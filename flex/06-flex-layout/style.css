@@ -42,10 +42,13 @@ body {
   gap: 16px;
 }
 
-
-
 .footer {
-  background: #eee;
+  background: #eeeeee;
+}
+
+a {
+  text-decoration-line: none;
+  color: black;
 }
 
 img {
